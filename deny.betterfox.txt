@@ -13,4 +13,5 @@ syndication.twitter.com
 !NVIDIA Gefore Experience
 events.gfe.nvidia.com
 ! test zalo
-cetralized.zaloapp.com
+centralized.zaloapp.com
+log.api.zaloapp.com
