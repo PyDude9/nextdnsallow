@@ -1,0 +1,14 @@
+!Apple Tracking domains
+acfeedbackws.icloud.com
+api-adservices.apple.com
+feedbackws.fe.apple-dns.net
+feedbackws.icloud.com
+iadsdk.apple.com
+notes-analytics-events.apple.com
+notes-analytics-events.news.apple-dns.net
+weather-analytics-events.apple.com
+weather-analytics-events.news.apple-dns.net
+!twitter tracker
+syndication.twitter.com
+!NVIDIA Gefore Experience
+events.gfe.nvidia.com
