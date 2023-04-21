@@ -65,3 +65,4 @@ nextdns.io
 
 !samsung tv
 cdn.samsungcloudsolution.com
+samsungcloudsolution.com
