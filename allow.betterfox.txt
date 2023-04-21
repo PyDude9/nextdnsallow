@@ -62,3 +62,6 @@ collector-hpn.privacy.ghostery.net
 d.ghostery.com
 !nextdns
 nextdns.io
+
+!samsung tv
+cdn.samsungcloudsolution.com
