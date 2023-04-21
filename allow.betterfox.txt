@@ -64,5 +64,13 @@ d.ghostery.com
 nextdns.io
 
 !samsung tv
+sas.samsungcloudsolution.com
+time.samsungcloudsolution.com
+gpm.samsungqbe.com
+samsungotn.net
+log-ingestion-eu.samsungacr.com
+otnprd11.samsungcloudsolution.net
+otnprd8.samsungcloudsolution.net
 cdn.samsungcloudsolution.com
-samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
+cdn.samsungcloudsolution.com
