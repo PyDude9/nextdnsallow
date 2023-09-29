@@ -1,15 +1,6 @@
-! Title: HaGeZi's Anti-Piracy DNS Blocklist
-! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Homepage: https://github.com/hagezi/dns-blocklists
-! Issues: https://github.com/hagezi/dns-blocklists/issues
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
-! Expires: Updated regularly
-! Last modified: 18 Apr 2023 21:26 UTC
-! Version: 2023.0418.2126.46
-! Syntax: AdBlock
-! Number of entries: 6897
 !facebook
 graph.facebook.com
+b-graph.facebook.com
 graph.instagram.com
 i.instagram.com
 b-graph.facebook.com
@@ -17,13 +8,16 @@ b-graph.facebook.com
 xp.apple.com
 !Apple iMessage GIFs 1 / Spotlight Search
 smoot.apple.com
+mask-t.apple-dns.net
+mask-api.fe.apple-dns.net
+mask.apple-dns.net
+mask-h2.icloud.com
+mask.icloud.com
+amp-api-search-edge.apps.apple.com
+amp-api-edge.apps.apple.com
 !Apple Store
 amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
-!xiaomi devices
-update.intl.miui.com
-@Google Nest
-logsink.devices.nest.com
 !yahoo mail
 consent.yahoo.com
 guce.oath.com
@@ -40,9 +34,6 @@ s.youtube.com
 ads-fa-darwin.hulustream.com
 !epic game launcher
 eulatracking-public-service-prod06.ol.epicgames.com
-!nividia geforece launch
-gfe.nvidia.com
-nvgs.nvidia.cn
 !check-fill-a-app
 tmetrix.my.chick-fil-a.com
 !imgru
@@ -62,7 +53,18 @@ collector-hpn.privacy.ghostery.net
 d.ghostery.com
 !nextdns
 nextdns.io
+!openai
+chat.openai.com
+!windows settings
+settings-win.data.microsoft.com
 
+!xiaomi devices
+update.intl.miui.com
+!Google Nest usage metrics
+logsink.devices.nest.com
+!nividia geforece launch
+gfe.nvidia.com
+nvgs.nvidia.cn
 !samsung tv
 sas.samsungcloudsolution.com
 time.samsungcloudsolution.com
