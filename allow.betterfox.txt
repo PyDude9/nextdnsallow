@@ -87,26 +87,7 @@ noticecdn.samsungcloudsolution.com
 cdn.samsungcloudsolution.com
 
 !adguard
-mask-t.apple-dns.net
 anonyviet.com
-mask-api.fe.apple-dns.net
-mask.apple-dns.net
-mask-h2.icloud.com
-mask.icloud.com
-nextdns.io
-d.ghostery.com
-collector-hpn.privacy.ghostery.net
-collector-hpn.ghostery.net
-glimmer.hearstapps.com
-dcf.espn.com
-tags.tiqcdn.com
-pubads.g.doubleclick.net
-production-cmp.isgprivacy.cbsi.com
-doppler-config.cbsivideo.com
-js.media-lab.ai
-tmetrix.my.chick-fil-a.com
-nvgs.nvidia.cn
-gfe.nvidia.com
 eulatracking-public-service-prod06.ol.epicgames.com
 ads-fa-darwin.hulustream.com
 s.youtube.com
