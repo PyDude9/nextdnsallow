@@ -12,6 +12,8 @@ b-graph.facebook.com
 graph.instagram.com
 i.instagram.com
 b-graph.facebook.com
+!camera
+cameraddns.net
 !fshare
 fshare.vn
 !Apple device updates
