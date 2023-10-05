@@ -1,3 +1,5 @@
+!Chat.openai login issue with cdn.oaistatic.com
+cdn.oaistatic.com
 !hostdargon-khuyen
 app.appsflyer.com
 app.adjust.com
